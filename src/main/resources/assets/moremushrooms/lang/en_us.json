@@ -1,0 +1,13 @@
+{ 
+	"block.moremushrooms.paris_mushroom": "Paris Mushroom",
+	"block.moremushrooms.amanite": "Amanite",
+	"block.moremushrooms.amanite_phalloid": "Amanite Phalloid",
+	"block.moremushrooms.satan_bolet": "Satan Bolet",
+	"block.moremushrooms.amanite_panther": "Amanite Panther",
+	"block.moremushrooms.yellow_bolet": "Yellow Bolet",
+	
+	"effect.moremushrooms.mortal_poison": "Mortal Poison",
+	
+	"death.attack.moremushrooms:mortal_poison": "%s died from a deadly poison",
+	"": ""//For the end of Translation
+}
